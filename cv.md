@@ -2,6 +2,7 @@
 
 ---
 ## Contacts
+* **E-mail:** (snailans73@gmail.com)
 * **Telegram:** @snailans
 * **Discord:** Moria#1472
 * **GitHub:** [snailans73](https://github.com/snailans73/)
@@ -11,7 +12,8 @@
 
 ---
 ## About me
-
+   
+   Hello! I am a beginner frontend developer. I am passionate about creating websites and applications and am willing to learn and grow in this area. I want to create beautiful, functional and user-friendly interfaces that make life easier for users. My goal is to become an experienced and sought-after specialist in the field of front-end development, and I am ready to invest a lot of my time and effort into this.
 
 
 
